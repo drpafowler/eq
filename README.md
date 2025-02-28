@@ -1,8 +1,10 @@
+
 # Project Title
 ## My package
 Description of your package.
 ## Overview
 Overview of your project.
+![Earthquakes on Plate Boundaries Depth](earthquakes_on_plate_boundaries_depth.png)
 ## Author(s)
 List of authors.
 ## Usage
